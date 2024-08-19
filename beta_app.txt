@@ -1,0 +1,17 @@
+
+Here are the different infos about the beta app : 
+_________________________________________________
+
+As of august of 2024, an existing "app" solution exists, using jotform. (https://www.jotform.com/)
+The current state of this beta app is a template that can be used by anyone with the link povided at the bottom of this file.
+
+To use it, simply open the link, create or use a Jotform account and get the forms. Then use the "Create the app" in the publish tab.
+It is located on the left side of the form when you open the form editor.
+
+The usage of this template is intended as a "preview" and a way to determine if the app fits the needs it has to fulfil. 
+Usage of this template is obviously free, but it should not be a final solution due to Jotform's limitations, the app will not
+be as good as it is in its released version. (Not available as of August the 19th of 2024, it is currently being worked on).
+
+https://eu.jotform.com/fr/form-templates/ur/pano-devis
+
+Thank you for your understanding.
