@@ -9,18 +9,20 @@ This app is used by Pano collaborators when they are trying to create estimates 
 - [@louis-ritzenthaler-Xerv](https://github.com/louis-ritzenthaler-Xerv)
 
 
+## Features (Ideas)
+
+- Subscription system
+
 ## Features (TBA)
 
-- Direct connection with other apps
-- Price result depending on the input provided
-- Android and IOs support
-- Usable both with phones or tablets, the latter being the recommended choice
+- Connection with other programs for easier and faster estimations
+- Form app to fill all useful data
+- All products integration
 
 ## Features (Added)
 
--
+- "Beta" version using jotform (info in the "beta_app.txt" file)
 
 ## Installation
 
-
-    
+TBD
